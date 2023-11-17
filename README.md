@@ -23,6 +23,4 @@ To use any of these scripts, clone the repository and run the desired script fro
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-```
+
